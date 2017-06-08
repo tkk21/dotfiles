@@ -1,5 +1,6 @@
 #!/bin/sh
 
+apt-get install sudo
 apt-get install htop
 apt-get install vim
 apt-get install git
