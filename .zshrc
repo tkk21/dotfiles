@@ -1,5 +1,6 @@
 # If you come from bash you might have to change your $PATH.
-# export PATH=$HOME/bin:/usr/local/bin:$PATH
+export PATH=$HOME/bin:/usr/local/bin:$PATH
+export PATH=/sbin:/usr/sbin:/usr/local/sbin:$PATH
 
 # Path to your oh-my-zsh installation.
   export ZSH=/home/tkk21/.oh-my-zsh
