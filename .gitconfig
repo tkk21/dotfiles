@@ -1,0 +1,7 @@
+[alias]
+	s = status
+	c = commit
+	d = diff
+	unstage = reset HEAD --
+	last = log -l HEAD
+    a = add
