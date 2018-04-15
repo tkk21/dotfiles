@@ -94,9 +94,11 @@ export SSH_KEY_PATH="~/.ssh/rsa_id"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias chrome="google-chrome"
+alias xclip="xclip -selection clipboard"
+alias clip="xclip -selection clipboard"
+
 export EDITOR=vim
 export VISUAL=vim
-
 
 
 export NVM_DIR="$HOME/.nvm"
